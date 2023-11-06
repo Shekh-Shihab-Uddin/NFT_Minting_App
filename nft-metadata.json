@@ -1,0 +1,11 @@
+{
+  "attributes": [
+    {
+      "color": "blue",
+      "value": "ABC"
+    }
+  ],
+  "description": "This is my image",
+  "image": "https://ipfs.io/ipfs/QmZui4PuXhQhZogXEn5ighqeJuQ7SSyeGDTPKj6rj6YyWt?filename=me-about.jpg",
+  "name": "Me"
+}
